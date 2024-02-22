@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;color: black;
+    border-radius: 0;
+
+}
+
+
+tr,th,td{
+    border:solid 1px;
+    padding: 30px 20px;
+    
+}
+
+
